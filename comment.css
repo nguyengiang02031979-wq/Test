@@ -1,0 +1,39 @@
+.comments-section {
+  margin-top: 30px;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+.comments-section h2 {
+  font-size: 20px;
+  margin-bottom: 15px;
+  color: #333;
+}
+
+.comment {
+  border-bottom: 1px solid #eee;
+  padding: 10px 0;
+}
+
+
+.comment-header {
+  justify-content: space-between;
+  display: flex;
+  font-size: 14px;
+  color: #555;
+  margin-bottom: 5px;
+}
+
+.comment p {
+  font-size: 15px;
+  color: #444;
+  margin: 0;
+}
+
+.comment-form {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+}
